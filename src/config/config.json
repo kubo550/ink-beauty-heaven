@@ -1,6 +1,6 @@
 {
   "site": {
-    "title": "Astroplate",
+    "title": "Ink&Beauty heaven",
     "base_url": "https://astroplate.netlify.app",
     "base_path": "/",
     "trailing_slash": false,
@@ -13,7 +13,7 @@
   },
 
   "settings": {
-    "search": true,
+    "search": false,
     "sticky_header": true,
     "theme_switcher": true,
     "default_theme": "system",
@@ -24,7 +24,7 @@
 
   "params": {
     "contact_form_action": "#",
-    "copyright": "Designed And Developed by [Zeon Studio](https://zeon.studio)"
+    "copyright": "Developed by [Jakub Kurdziel](https://github.com/kubo550)"
   },
 
   "navigation_button": {
@@ -40,7 +40,7 @@
   },
 
   "metadata": {
-    "meta_author": "zeon.studio",
+    "meta_author": "Jakub Kurdziel",
     "meta_image": "/images/og-image.png",
     "meta_description": "astro and tailwind boilerplate"
   }

@@ -1,7 +1,8 @@
 import { useEffect, useState } from "react";
 
-const useTheme = (): string => {
-  const [themeValue, setThemeValue] = useState("");
+type Theme = "" | "dark" | "light";
+const useTheme = (): Theme => {
+  const [themeValue, setThemeValue] = useState<Theme>("");
 
   useEffect(() => {
     setThemeValue(

@@ -3,22 +3,18 @@
     {
       "name": "facebook",
       "icon": "FaFacebook",
-      "link": "https://www.facebook.com/"
+      "link": "https://www.facebook.com/profile.php?id=61553620707589"
     },
     {
-      "name": "twitter",
-      "icon": "FaTwitter",
-      "link": "https://twitter.com/"
+      "name": "ink_beauty_heaven",
+      "icon": "FaInstagram",
+      "link": "https://www.instagram.com/ink_beauty_heaven/tagged/"
     },
     {
-      "name": "github",
-      "icon": "FaGithub",
-      "link": "https://www.github.com/"
-    },
-    {
-      "name": "linkedin",
-      "icon": "FaLinkedin",
-      "link": "https://www.linkedin.com/"
+      "name": "zuza.to.dziara",
+      "icon": "FaInstagram",
+      "link": "https://www.instagram.com/zuza.to.dziara/"
     }
+
   ]
 }
