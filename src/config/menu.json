@@ -17,37 +17,9 @@
       "url": "/pricing"
     },
     {
-      "name": "Baza wiedzy",
+      "name": "Pytania",
       "url": "/faq"
-    },
-    {
-      "name": "Pages",
-      "url": "",
-      "hasChildren": true,
-      "children": [
-        {
-          "name": "Blog",
-          "url": "/blog"
-        },
-        {
-          "name": "Authors",
-          "url": "/authors"
-        },
-        {
-          "name": "Categories",
-          "url": "/categories"
-        },
-        {
-          "name": "Tags",
-          "url": "/tags"
-        },
-        {
-          "name": "404 Page",
-          "url": "/404"
-        }
-      ]
-    }
-  ],
+    }],
   "footer": [
     {
       "name": "Elements",
