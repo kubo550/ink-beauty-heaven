@@ -34,10 +34,11 @@ export interface Props {
   image?: string;
   noindex?: boolean;
   canonical?: string;
+  className?: string;
 }
 
 // distructure frontmatters
-const { title, meta_title, description, image, noindex, canonical } =
+const { title, meta_title, description, image, noindex, canonical, className } =
   Astro.props;
 ---
 
@@ -174,7 +175,7 @@ const { title, meta_title, description, image, noindex, canonical } =
     <TwSizeIndicator />
     <Header />
     <SearchModal client:load />
-    <main id="main-content">
+    <main id="main-content" class={className || ""}>
       <slot />
     </main>
     <Footer />

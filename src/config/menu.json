@@ -5,19 +5,26 @@
       "url": "/"
     },
     {
-      "name": "About",
+      "name": "O nas",
       "url": "/about"
     },
     {
-      "name": "Contact",
+      "name": "Kontakt",
       "url": "/contact"
+    },
+    {
+      "name": "Cennik",
+      "url": "/pricing"
+    },
+    {
+      "name": "Baza wiedzy",
+      "url": "/faq"
     },
     {
       "name": "Pages",
       "url": "",
       "hasChildren": true,
       "children": [
-
         {
           "name": "Blog",
           "url": "/blog"

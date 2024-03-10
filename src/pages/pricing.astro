@@ -1,0 +1,41 @@
+---
+import config from "@/config/config.json";
+import Base from "@/layouts/Base.astro";
+import PageHeader from "@/partials/PageHeader.astro";
+import { getEntry } from "astro:content";
+import { ContactForm } from "@/layouts/components/custom/ContactForm";
+
+const contact = await getEntry("pricing", "-index");
+const { title, description, meta_title, image } = contact.data;
+---
+
+<Base
+  title={title}
+  meta_title={meta_title}
+  description={description}
+  image={image}
+>
+  <section class="section-sm min-h-[72vh]">
+    <div class="container">
+      <div class="row">
+        <div class="mx-auto md:col-10 lg:col-6">
+          <h2 class="text-3xl font-bold mb-4">Cennik</h2>
+
+          <div>
+            <p class="mb-4">
+              Wszystkie ceny są cenami netto. Wszystkie usługi są rozliczane na
+              podstawie czasu pracy. W przypadku usług długoterminowych możliwe
+              jest ustalenie stałej stawki miesięcznej.
+            </p>
+          </div>
+
+          <div class="mb-4">
+            <p>
+              <strong>Strona w bodowie...</strong>
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</Base>
