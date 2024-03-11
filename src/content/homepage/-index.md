@@ -11,14 +11,12 @@ banner:
 features:
   - title: "Kto Tworzy Ink&Beauty Heaven?"
     image: "/images/crew-artists.jpeg"
-    content: "Jesteśmy siostrami, które od zawsze pasjonowały się sztuką. W naszym salonie znajdziesz zarówno tatuaże jak i paznokcie. Zapraszamy do naszego salonu!"
+    content: "Jesteśmy siostrami, które od zawsze pasjonowały się sztuką. W naszym salonie zrealizujesz swoje marzenia o pięknych paznokciach i artystycznych tatuażach. Poznaj nasze usługi i umów się na wizytę już dziś!"
     bulletpoints:
-      - "Ponad 100 zadawolonych klientów"
       - "Profesjonalne podejście"
       - "Przyjazna atmosfera"
       - "Szeroki wybór wzorów i kolorów"
       - "Nowoczeny salon"
-      
      
     button:
       enable: false
@@ -31,7 +29,9 @@ features:
     bulletpoints:
       - "Stylizacja paznokci"
       - "Przedłużanie paznokci"
-      - "Zdobienia"
+      - "stylizacja brwi"
+      - "Szeroki wybór zdobień i kolorów"
+      
     button:
       enable: true
       label: "Skontaktuj się z Kingą"
@@ -43,7 +43,9 @@ features:
     bulletpoints:
       - "Tatuaż artystyczny"
       - "Tatuaż klasyczny"
-      - "Wzory"
+      - "Customowe wzory na życzenie"
+      - "Szeroki wybór wzorów"
+
     button:
       enable: true
       label: "Skontaktuj się z Zuzą"

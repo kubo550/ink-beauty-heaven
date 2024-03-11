@@ -5,9 +5,9 @@ description: ""
 
 # Testimonials
 testimonials:
-  - name: "Marvin McKinney"
+  - name: "Anna Kasprzyk"
     designation: "Web Designer"
-    avatar: "/images/avatar-sm.png"
+    avatar: "/images/akasprzyk.jpeg"
     content: "Jestem bardzo zadowolona! Wszystko na najwyższym poziomie."
 
   - name: "Marvin McKinney"

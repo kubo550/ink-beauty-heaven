@@ -1,6 +1,6 @@
 {
   "site": {
-    "title": "Ink&Beauty heaven",
+    "title": "Ink&Beauty Heaven • Tatuaże • Paznokcie",
     "base_url": "https://astroplate.netlify.app",
     "base_path": "/",
     "trailing_slash": false,
@@ -42,6 +42,6 @@
   "metadata": {
     "meta_author": "Jakub Kurdziel",
     "meta_image": "/images/og-image.png",
-    "meta_description": "astro and tailwind boilerplate"
+    "meta_description": "Ink&Beauty Heaven - Najlepsze miejsce na Twoje tatuaże i paznokcie w gminie Krzeszowice. Zapraszamy do naszego salonu!"
   }
 }
